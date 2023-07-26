@@ -1,0 +1,5 @@
+com\repository\NotificationRepository.class
+com\entity\Notification.class
+com\util\Status.class
+com\controller\NotificationController.class
+com\EsercitazioneCardApplication.class
